@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nirere Marie Christelle
 ===============================================================================================================================================
 
-Front-end developer
+Full-stack developer
 -------------------
 
 Currently, I am enrolled in Microverse, a remote software development program that emphasizes pair programming and project building. Through this program, I have gained valuable soft skills, including communication, collaboration, and adaptability, which are essential for working in a team environment. I am really excited about the opportunity to become a solution-driven software developer and work remotely with a strong tech company.
