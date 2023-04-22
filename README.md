@@ -9,8 +9,8 @@ Currently, I am enrolled in Microverse, a remote software development program th
 * 🌍  I'm based in Kigali,Rwanda
 * 🖥️  See my portfolio at [My portfolio](http://christelle-12.github.io/My-portfolio/.)
 * ✉️  You can contact me at [mariechristellenirere@gmail.com](mailto:mariechristellenirere@gmail.com)
-* 🚀  I'm currently working on [to-do-list](http://github.com/Christelle-12/To-do-list)
-* 🧠  I'm learning Webpack
+* 🚀  I'm currently working on [Leaderboard-project](https://github.com/Christelle-12/leaderboard.git)
+* 🧠  I'm learning API
 * 🤝  I'm open to collaborating on javascript projects
 
 <a href="https://www.github.com/christelle-12" target="_blank" rel="noreferrer"><img
