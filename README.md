@@ -11,7 +11,7 @@ Currently, I am enrolled in Microverse, a remote software development program th
 * ✉️  You can contact me at [mariechristellenirere@gmail.com](mailto:mariechristellenirere@gmail.com)
 * 🚀  I'm currently working on [Math-magician](https://github.com/Christelle-12/math-magician)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on react projects
+* 🤝  I'm open to collaborating on ruby on rails projects
 
 <a href="https://www.github.com/christelle-12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/christelle-12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
