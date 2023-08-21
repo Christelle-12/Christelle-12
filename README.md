@@ -10,7 +10,7 @@ Currently, I am enrolled in Microverse, a remote software development program th
 * 🖥️  See my portfolio at [My portfolio](http://christelle-12.github.io/My-portfolio/.)
 * ✉️  You can contact me at [mariechristellenirere@gmail.com](mailto:mariechristellenirere@gmail.com)
 * 🚀  I'm currently working on [Math-magician](https://github.com/Christelle-12/math-magician)
-* 🧠  I'm learning React
+* 🧠  I'm learning Ruby on Rails 
 * 🤝  I'm open to collaborating on ruby on rails projects
 
 <a href="https://www.github.com/christelle-12" target="_blank" rel="noreferrer"><img
